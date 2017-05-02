@@ -1,5 +1,7 @@
 # project-1
 
+Neural Sytle is a model that able to convert images into several styles artistic images.
+
 REQUIREMENTS:
 
 	-Python 3.5
