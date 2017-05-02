@@ -21,9 +21,9 @@ RUNNING:
 
 Examples:
 
-	input image:
+input image:
 	
-	![alt text](https://github.com/lihengbin333/project-1/blob/master/2-content.jpg?raw=true)
+![alt text](https://github.com/lihengbin333/project-1/blob/master/2-content.jpg?raw=true)
 
 Citation
 
