@@ -20,7 +20,9 @@ RUNNING:
 	Use --checkpoint-output and --checkpoint-iterations to save checkpoint images.
 
 Examples:
+
 	input image:
+	
 	![alt text](https://github.com/lihengbin333/project-1/blob/master/2-content.jpg?raw=true)
 
 Citation
