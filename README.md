@@ -18,3 +18,16 @@ RUNNING:
 	python neural_style.py --content <content file> --styles <style file> --output <output file>
 	Run python neural_style.py --help to see a list of all options.
 	Use --checkpoint-output and --checkpoint-iterations to save checkpoint images.
+
+
+Citation
+
+If you use this implementation in your work, please cite the following:
+
+	@misc{athalye2015neuralstyle,
+  	author = {Anish Athalye},
+	 title = {Neural Style},
+ 	 year = {2015},
+  	howpublished = {\url{https://github.com/anishathalye/neural-style}},
+  	note = {commit xxxxxxx}
+	}
